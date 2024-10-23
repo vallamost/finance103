@@ -8,12 +8,12 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-16">
           <div className="text-center">
             <h1 className="text-5xl font-bold text-white mb-6">
-              Master Your Money in
-              <span className="text-blue-400"> 4 Weeks</span>
+              Learn how simple but extremely powerful investing knowledge in
+              <span className="text-blue-400"> 30 minutes.</span>
             </h1>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              Join our proven financial education course and learn the essential skills
-              to build wealth, manage debt, and secure your financial future.
+              Join me in a private, 1 on 1 session where I will personally share life changing
+              investment advice to build wealth for decades.
             </p>
             <button className="bg-blue-500 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-600 transition-colors duration-200 flex items-center mx-auto gap-2">
               Secure Your Spot Now <ArrowRight className="w-5 h-5" />
